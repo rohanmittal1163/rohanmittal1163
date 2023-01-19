@@ -1,6 +1,7 @@
+![](https://camo.githubusercontent.com/6119d106575d1a4ec3a95529bf2fd1027f7be0369f29ffa6bac01d3a8c813b4b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d74696d654772616469656e74266865696768743d3135302673656374696f6e3d68656164657226746578743d596f75253230466f756e642532304d652c253230417765736f6d652126666f6e7453697a653d333526666f6e74416c69676e593d323026646573633d2e2e2e72656164253230612532306c6974746c6525323061626f75742532306d652e266465736353697a653d32302664657363416c69676e593d343526616e696d6174696f6e3d7477696e6b6c696e67)
+
 # 💫 About Me:
 🏫 I'm currently studying B.Tech in Computer Engineering from DTU(formerly DCE)<br>👯 I’m looking to collaborate with any Open - Source web projects.<br>🤝 I’m looking for help with outstanding project ideas.<br>💬 How to reach me: rohanmittal525@gmail.com.<br>⚡Fun fact: I always try to learn something new and then sleep till it stores in the brain.<br><br><br><br><br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohan_mittal1163) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan mittal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rohanmittal1163) 
