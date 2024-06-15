@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I'm currently studying B.Tech in Computer Engineering from DTU(formerly DCE)<br>👯 I’m looking to collaborate with any Open - Source web projects.<br>🤝 I’m looking for help with outstanding project ideas.<br>💬 How to reach me: rohanmittal525@gmail.com.<br>⚡Fun fact: I always try to learn something new and then sleep till it stores in the brain.
+🏫 I'm currently studying B.Tech in Computer Engineering from DTU (formerly DCE)<br>👯 I’m looking to collaborate with any Open - Source web projects.<br>🤝 I’m looking for help with outstanding project ideas.<br>💬 How to reach me: rohanmittal525@gmail.com.<br>⚡Fun fact: I always try to learn something new and then sleep till it stores in the brain.
 
 
 ## 🌐 Socials:
